@@ -11,3 +11,7 @@ Start the project
 ```bash
 npm run dev
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
