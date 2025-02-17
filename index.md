@@ -6,3 +6,8 @@
 ###### h6, o final
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Start the project
+```bash
+npm run dev
+```
